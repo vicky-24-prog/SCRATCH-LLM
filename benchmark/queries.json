@@ -1,0 +1,44 @@
+[
+  
+  {"query": "Write a Python function to reverse a list", "label": "CODING"},
+  {"query": "Explain how recursion works in Python", "label": "CODING"},
+  {"query": "Write a binary search algorithm in Python", "label": "CODING"},
+  {"query": "Debug this error: IndexError in Python lists", "label": "CODING"},
+  {"query": "Convert a string to integer in Python safely", "label": "CODING"},
+  
+
+  
+  {"query": "Solve 2x + 7 = 19", "label": "MATH"},
+  {"query": "Find derivative of x^3", "label": "MATH"},
+  {"query": "Solve integral of x^2 dx", "label": "MATH"},
+  {"query": "What is the probability of getting heads in a fair coin?", "label": "MATH"},
+  {"query": "Solve quadratic equation x^2 - 5x + 6", "label": "MATH"},
+  
+
+  
+  {"query": "Who is the CEO of Google?", "label": "FACTUAL_QA"},
+  {"query": "What is the capital of Japan?", "label": "FACTUAL_QA"},
+  {"query": "Who founded Microsoft?", "label": "FACTUAL_QA"},
+  {"query": "What is the tallest mountain in the world?", "label": "FACTUAL_QA"},
+  {"query": "When did World War II end?", "label": "FACTUAL_QA"},
+  
+ 
+
+  
+  {"query": "Summarize this article about artificial intelligence", "label": "SUMMARIZATION"},
+  {"query": "Summarize the causes of climate change", "label": "SUMMARIZATION"},
+  {"query": "Summarize the benefits of exercise", "label": "SUMMARIZATION"},
+  {"query": "Summarize this paragraph about machine learning", "label": "SUMMARIZATION"},
+  {"query": "Summarize advantages of cloud computing", "label": "SUMMARIZATION"},
+  {"query": "Summarize the plot of Titanic movie", "label": "SUMMARIZATION"},
+ 
+
+  
+  {"query": "Write a poem about Mumbai rain", "label": "CREATIVE"},
+  {"query": "Write a short story about time travel", "label": "CREATIVE"},
+  {"query": "Write a motivational quote", "label": "CREATIVE"},
+  {"query": "Write a haiku about nature", "label": "CREATIVE"},
+  {"query": "Write a story set in the future", "label": "CREATIVE"},
+  {"query": "Write a poem about friendship", "label": "CREATIVE"}
+  
+]
